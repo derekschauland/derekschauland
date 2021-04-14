@@ -7,7 +7,7 @@ Hi! I'm Derek.  A cloud engineer and general technology nerd with a passion for 
 
 
 In addition to an everyday role focused on cloud, I have written for several print and online publications including:
-
+ 
 - [TechRepublic](https://www.techrepublic.com)
 - [Redmond Magazine](https://www.redmondmag.com)
 - [CloudSkills.io](https://cloudskills.io)
