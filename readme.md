@@ -22,3 +22,7 @@ In addition to an everyday role focused on cloud, I have written for several pri
 **My GitHub Stats:**<br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=derekschauland&show_icons=true&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekschauland&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=derekschauland)
+
