@@ -1,10 +1,10 @@
-Hi! I'm Derek.  A cloud engineer and general technology nerd with a passion for Cloud Platform Technologies. My career has been quite the journey - from IT Management, to IT Generalist, to Consulting,[...]
+Hi! I'm Derek.  A cloud engineer and general technology nerd with a passion for Cloud Platform Technologies. My career has been quite the journey - from IT Management, to IT Generalist, to Consulting.
 
 **Cloud Platforms I've used:**
 
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/microsoft-azure.png" width="120" alt="Microsoft Azure">
-  <img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="120" alt="GCP">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517afb172/topics/azure/azure.png" width="120" alt="Microsoft Azure">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517afb172/topics/google-cloud/google-cloud.png" width="120" alt="GCP">
 </div>
 
 In addition to an everyday role focused on cloud, I have written for several print and online publications including:
@@ -23,9 +23,9 @@ In addition to an everyday role focused on cloud, I have written for several pri
 **Languages I use:**
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517afb172/topics/terraform/terraform.png" width="80" alt="Terraform">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517afb172/topics/python/python.png" width="80" alt="Python">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517afb172/topics/powershell/powershell.png" width="80" alt="PowerShell">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517afb172/topics/bash/bash.png" width="80" alt="Bash">
 </div>
 
 **My GitHub Stats:**
