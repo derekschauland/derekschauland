@@ -1,10 +1,10 @@
-Hi! I'm Derek.  A cloud engineer and general technology nerd with a passion for Cloud Platform Technologies. My career has been quite the journey - from IT Management, to IT Generalist, to Consulting, and now a Cloud Solution Architect.
+Hi! I'm Derek.  A cloud engineer and general technology nerd with a passion for Cloud Platform Technologies. My career has been quite the journey - from IT Management, to IT Generalist, to Consulting,[...]
 
 **Cloud Platforms I've used:**
 
 <div align="center">
-  <img src="https://www.microsoft.com/favicon.ico" width="120" alt="Microsoft Azure">
-  <img src="https://www.gstatic.com/devrel-devsite/prod/v2210deb5920cd4a55bd580441aa58e7853afc04b39a9d9ac4198e1cd7fbe04ef/cloud/images/favicons/one-color/cloud/favicon.ico" width="120" alt="GCP">
+  <img src="https://img.icons8.com/color/96/000000/microsoft-azure.png" width="120" alt="Microsoft Azure">
+  <img src="https://img.icons8.com/color/96/000000/google-cloud.png" width="120" alt="GCP">
 </div>
 
 In addition to an everyday role focused on cloud, I have written for several print and online publications including:
