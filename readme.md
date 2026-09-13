@@ -1,11 +1,9 @@
-Hi! I'm Derek.  A cloud engineer and general technology nerd with a passion for Cloud Platform Technologies. My career has been quite the journey - from IT Management, to IT Generalist, to Consulting.
+Hi! I'm Derek.  A cloud and general technology nerd with a passion for Cloud Platform Technologies. My career has been quite the journey - from IT Management, to IT Generalist, to Consulting.
 
 **Cloud Platforms I've used:**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517afb172/topics/azure/azure.png" width="120" alt="Microsoft Azure">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517afb172/topics/google-cloud/google-cloud.png" width="120" alt="GCP">
-</div>
+- Microsoft Azure
+- Google Cloud Platform
 
 In addition to an everyday role focused on cloud, I have written for several print and online publications including:
  
@@ -15,27 +13,17 @@ In addition to an everyday role focused on cloud, I have written for several pri
 
 **Authored Books:**
 
-<div align="center">
-  <img src="https://images-na.ssl-images-amazon.com/images/P/B085BVZNYX.01._SCLZZZZZZZ_SX500_.jpg" height="100" alt="Microsoft Azure Admin Exam AZ-301 Study Guide">
-  <img src="https://images-na.ssl-images-amazon.com/images/P/B08CPBSM5Q.01._SCLZZZZZZZ_SX500_.jpg" height="100" alt="Microsoft Azure Admin Exam AZ-104 Study Guide">
-</div>
+MS Press
+- Microsoft Azure Architecture Technologies - AZ-300
+- Microsoft Azure Architecture Technologies - AZ-303
+- Configuring Windows 8 Training Guide
+
+Apress
+- Troubleshooting Windows Server with Powershell
 
 **Languages I use:**
+- PowerShell
+- Terraform
+- Python
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517afb172/topics/terraform/terraform.png" width="80" alt="Terraform">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517afb172/topics/python/python.png" width="80" alt="Python">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517afb172/topics/powershell/powershell.png" width="80" alt="PowerShell">
-</div>
-
-**My GitHub Stats:**
-
-<div align="center">
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=derekschauland&show_icons=true&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekschauland&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=derekschauland)
-
-</div>
+This is not an all inclusive list, just the things I use regularly 
